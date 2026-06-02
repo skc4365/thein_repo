@@ -18,7 +18,6 @@ public class Account {
 
 //		balance = balance + amount;
 		balance += amount;
-		System.out.println(balance + "원 입금 완료");
 	}
 
 	// 출금
